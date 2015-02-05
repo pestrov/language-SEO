@@ -7,3 +7,17 @@ jumbo mortgages, None
 open electronic bank account, 398				
 high-yield account, 546 
 high-yield certificates of deposit, 116
+low rate loans, None
+best interest rates, None
+direct deposit, 193
+eBank, 74
+homebanking, None
+online banking, 418
+mortgage rates, None
+mortgage payment calculator, None
+bank account, 491
+open bank account online, 439
+interest calculator, None
+interest rates, None
+cd rates, None
+bankrate, None
