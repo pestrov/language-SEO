@@ -1,7 +1,7 @@
-low interest loan, None
-high rate savings account, None 					 			
-no fee bank account, 711 
-electronic banking, 239	
+low interest loan, 1
+high rate savings account, 10 					 			
+no fee bank account, 12 
+electronic banking, 1	
 eBanking, 74	
 jumbo mortgages, None	
 open electronic bank account, 398				
